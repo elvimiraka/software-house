@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/software-house/static/css/main.e6c13ad2.css",
+    "main.js": "/software-house/static/js/main.bf2ee6a9.js",
+    "static/js/453.6ec78bbf.chunk.js": "/software-house/static/js/453.6ec78bbf.chunk.js",
+    "static/media/coding-team.jpg": "/software-house/static/media/coding-team.54bff1e78d39a2876d56.jpg",
+    "static/media/office.jpg": "/software-house/static/media/office.ed46653946f2770c412d.jpg",
+    "static/media/reddit.png": "/software-house/static/media/reddit.850508f983bf930c9801.png",
+    "static/media/logo.png": "/software-house/static/media/logo.8b95386a2517eedbb122.png",
+    "static/media/techCrunch.png": "/software-house/static/media/techCrunch.ea95181b759f8ff781a7.png",
+    "index.html": "/software-house/index.html",
+    "main.e6c13ad2.css.map": "/software-house/static/css/main.e6c13ad2.css.map",
+    "main.bf2ee6a9.js.map": "/software-house/static/js/main.bf2ee6a9.js.map",
+    "453.6ec78bbf.chunk.js.map": "/software-house/static/js/453.6ec78bbf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.bf2ee6a9.js"
+  ]
+}
